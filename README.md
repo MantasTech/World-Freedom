@@ -20,11 +20,9 @@ This repository contains a data analysis project that delves deep into the human
 - Exploratory analysis showcased the leading countries in every region.
 
 ## Usage
-1. Clone this repository to your local machine.
-2. Navigate to the dataset directory to access the raw CSV files.
-3. The Jupyter Notebook can be run through the Jupyter environment.
-4. Ensure you have the mentioned Python libraries installed.
-5. If having troubles with Jupyter Notebook there is HTML file attached for faster look at the project.
-
+1. To accesss the project open the [analyzing_world_freedom_data.ipynb](https://github.com/MantasTech/Projects/blob/main/analyzing_world_freedom_data.ipynb)
+2. The Jupyter Notebook can be run through the Jupyter environment or Github.
+3. Ensure you have the mentioned Python libraries installed.
+4. Navigate to [hfi_cc_2022.csv](https://github.com/MantasTech/Projects/blob/main/hfi_cc_2022.csv) to access the raw CSV file.
 ## Contribution & Feedback
 Open to contributions, suggestions, and feedback. If you have any improvements or notice any issues, please make a pull request or leave an issue!
