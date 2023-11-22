@@ -1,14 +1,14 @@
 # Global Human & Economic Freedom Analysis
 
 ## Overview
-This repository contains a data analysis project that delves deep into the human and economic freedom numbers for a year of 2020. The objective is to unearth patterns among countries, revealing the dynamics of global freedom over these years.
+This repository contains a data analysis project that delves deep into the human and economic freedom numbers for a year of 2020. The objective is to show patterns among countries, revealing the dynamics of global freedom.
 
 ## Tools and Techniques
 - **Environment**: Jupyter Notebook
 - **Programming Language**: Python
   
 - **Data Cleaning**: Utilized `pandas` for cleaning and preprocessing the dataset to ensure quality analyses.
-- **Exploratory Data Analysis**: Leveraged statistical functions from `numpy` and `pandas` to understand distributions, central tendencies, and other key metrics.
+- **Exploratory Data Analysis**: Used `numpy` and `pandas` to understand distributions, central tendencies, and other key metrics.
 - **Visualization**: Created intuitive plots using `seaborn` and `matplotlib` to visualize key patterns and insights.
 
 ## Dataset
@@ -16,7 +16,7 @@ This repository contains a data analysis project that delves deep into the human
 
 ## Key Findings
 - Comprehensive exploration of global freedom trends and rankings.
-- Spotlight analysis on countries like Hong Kong, emphasizing its distinct positioning in the global rankings.
+- Spotlight analysis on countries, emphasizing its distinct positioning in the global rankings.
 - Exploratory analysis showcased the leading countries in every region.
 
 ## Usage
