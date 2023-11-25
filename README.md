@@ -8,7 +8,7 @@ This repository contains a data analysis project that explores the human and eco
 - **Programming Language**: Python
 - **Libraries**:`pandas` `numpy` `matplotlib` `seaborn`
 
-## Usage
+## Access
 1. To accesss the project open the [World_Freedom_EDA.ipynb](https://github.com/MantasTech/World-Freedom/blob/main/World_Freedom_EDA.ipynb)
 2. The Jupyter Notebook can be run through the Jupyter environment or Github.
 
