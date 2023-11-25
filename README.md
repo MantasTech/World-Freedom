@@ -1,7 +1,7 @@
 # World Freedom Data Analysis
 
 ## Overview
-This repository contains a data analysis project that delves deep into the human and economic freedom numbers for a year of 2020. The objective is to show patterns among countries, revealing the dynamics of global freedom.
+This repository contains a data analysis project that explores the human and economic freedom numbers for a year of 2020. The objective is to show patterns among countries, revealing the dynamics of global freedom.
 
 ## Tools and Techniques
 - **Environment**: Jupyter Notebook
@@ -22,10 +22,5 @@ This repository contains a data analysis project that delves deep into the human
 - Spotlight analysis on countries, emphasizing its distinct positioning in the global rankings.
 - Exploratory analysis showcased the leading countries in every region.
 
-
-
-## Contribution & Feedback
-Open to contributions, suggestions, and feedback. If you have any improvements or notice any issues, please make a pull request or leave an issue!
-
 ## Dataset
-[The Human Freedom Index 2022](https://www.kaggle.com/datasets/gsutters/the-human-freedom-index?select=hfi_cc_2022.csv)
+[Kaggle](https://www.kaggle.com/datasets/gsutters/the-human-freedom-index?select=hfi_cc_2022.csv)
