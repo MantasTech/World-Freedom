@@ -1,4 +1,4 @@
-# World Freedom Analysis
+# 🌍World Freedom Analysis
 
 ## Overview
 This repository contains a data analysis project that explores the human and economic freedom numbers for a year of 2020. The objective is to show patterns among countries, revealing the dynamics of global freedom.
